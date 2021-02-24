@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Contact_AMANDEEP_790018_android</string>
+        <string name="add_a_new_contact">Add a new Contact</string>
+    <string name="enter_fname">Enter first name</string>
+    <string name="enter_lname">Enter last name</string>
+    <string name="enter_email">Enter email</string>
+        <string name="enter_ph_no">Enter phno</string>
+        <string name="enter_address">Enter address</string>
+        <string name="view_contact">View Contacts</string>
+        <string name="add_contact">Add Contact</string>
+        <string name="edit_contact">Edit Contact</string>
+        <string name="update">Update</string>
+
+</resources>
